@@ -1,0 +1,3 @@
+StudentInfo = {}
+
+def AddStudent(Name, ID, GPA, CreditaCompleted, Grades):
